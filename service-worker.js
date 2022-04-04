@@ -1,0 +1,1 @@
+importScripts('https://pxl.altcraft.vasily-grishin.lan/service-worker.js?id=MnwxNQ..');

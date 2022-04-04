@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://vgaltcraft.github.io",
+  "display": "standalone"
+}
